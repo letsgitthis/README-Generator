@@ -133,9 +133,9 @@ const init = () => {
     `);
     questions()
         .then(data => {
-            fs.writeFile('./genLocation/README.md', generateQuestions(data), err => {
+            fs.writeFile('./README.md', generateQuestions(data), err => {
                 if (err) throw err;
-                console.log(`README has been generated in the "genLocation" folder`)
+                console.log(`README has been generated in the "README.md" file.`)
             });
         })
 }

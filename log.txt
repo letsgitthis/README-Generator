@@ -1,1 +1,0 @@
-This is an example string we will write into a file.
