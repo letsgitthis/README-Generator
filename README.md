@@ -11,25 +11,25 @@
         [Questions](#questions)
     
     ##Description
-    ### This is a test to see if problems are resolved.
+    ### Generate README files with JavaScript on Node.js
     
     ## Installation
-    ###This is a test
+    ###Download zip 
     
     ## Usage
-    ### This is a test
+    ### To Generate a consistant and organized README for projects on Github
 
     ## License
     ###ISC
 
     ## Contributions
-    ### This is a test
+    ### Message me on Github if you want to make a pull request.
 
     ## Tests
-    ### This is a test
+    ### It would be a good idea to test all projects.
 
     ## Questions
-    ### (https://github.com/test)
-    ### test
+    ### (https://github.com/letsgitthis)
+    ### jbentley1011@gmail.com
 
     
