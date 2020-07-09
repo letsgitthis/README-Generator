@@ -33,7 +33,9 @@ const generateQuestions = data => {
 ### (https://github.com/${data.username})
 ### ${data.email}
 
-![demo](./video/README-demonstration.webm)
+## Demo
+[![demo]({})]({./video/README-demonstration.webm} "Demo")
+[![Alternate Text]({image-url})]({video-url} "Link Title")
 `
 }
 
