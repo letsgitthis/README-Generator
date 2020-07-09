@@ -1,37 +1,37 @@
 const generateQuestions = data => {
     return `
-    # ${data.title}
+# ${data.title}
 
-    ## Table of Conetents
-        [Description](#description)
-        [Installation](#installation)
-        [Usage](#usage)
-        [License](#licenses)
-        [Contributions](#contributions)
-        [Tests](#tests)
-        [Questions](#questions)
+## Table of Conetents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#licenses)
+* [Contributions](#contributions)
+* [Tests](#tests)
+* [Questions](#questions)
     
-    ##Description
-    ### ${data.description}
+## Description
+### ${data.description}
     
-    ## Installation
-    ###${data.install}
+## Installation
+### ${data.install}
     
-    ## Usage
-    ### ${data.usage}
+## Usage
+### ${data.usage}
 
-    ## License
-    ###${data.licenses}
+## License
+### ${data.licenses}
 
-    ## Contributions
-    ### ${data.contributions}
+## Contributions
+### ${data.contributions}
 
-    ## Tests
-    ### ${data.tests}
+## Tests
+### ${data.tests}
 
-    ## Questions
-    ### (https://github.com/${data.username})
-    ### ${data.email}
+## Questions
+### (https://github.com/${data.username})
+### ${data.email}
 
     `
 }
