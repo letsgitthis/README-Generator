@@ -33,7 +33,8 @@ const generateQuestions = data => {
 ### (https://github.com/${data.username})
 ### ${data.email}
 
-    `
+![demo](./video/README-demonstration.webm)
+`
 }
 
 module.exports = generateQuestions;
